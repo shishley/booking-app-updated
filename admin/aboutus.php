@@ -25,7 +25,7 @@ echo "<script>window.location.href ='aboutus.php'</script>";
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>BeachSide Hotels | About Us</title>
+<title>BeachSide Hotels n| About Us</title>
 
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Bootstrap Core CSS -->
